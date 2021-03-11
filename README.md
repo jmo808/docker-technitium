@@ -1,1 +1,1 @@
-# docker-technitium
+# Technitium DNS Server Docker
